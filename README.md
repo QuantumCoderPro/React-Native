@@ -1,5 +1,4 @@
 # React-Native
-Sample Apps
 Book App
 ![Screenshot (65)](https://user-images.githubusercontent.com/89980850/187147841-cd10dba5-046e-49e1-900e-73c754b3e7e6.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/89980850/187147848-420b863a-6d2f-4b55-9c7f-4488f2e12e04.png)
